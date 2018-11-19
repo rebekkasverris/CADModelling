@@ -541,8 +541,8 @@ DIN A4, landscape with location and doc. field</description>
 <plain>
 </plain>
 <instances>
-<instance part="U$1" gate="G$1" x="58.42" y="106.68"/>
-<instance part="U1" gate="G$1" x="124.46" y="53.34"/>
+<instance part="U$1" gate="G$1" x="58.42" y="91.44"/>
+<instance part="U1" gate="G$1" x="162.56" y="99.06"/>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
 </instances>
 <busses>
